@@ -1,6 +1,5 @@
-Im currently coding for fun and trying out new things. I am interested in backend, gaming, and blockchain development.
-Im learning python right now, with the hope of learning more languages in the future.
-Best way to reach me is my discord --> Stale#9801
+I'm proficient in Python, and know a bit of C#, SQL, and HTML/CSS. I own a SaaS company in business process automation, and coding is my passion.
+Best way to reach me is my discord -> staleplains
 
 <!---
 StalePlains/StalePlains is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
